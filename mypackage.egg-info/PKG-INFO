@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1.0
+Summary: A dummy package to try out distribution of a Python package. Built by Harsh
+Home-page: https://github.com/yourusername/mypackage
+Author: Harshvardhan Pandey
+Author-email: your@email.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+
+UNKNOWN
+
