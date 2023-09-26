@@ -5,8 +5,8 @@ setup(
     version="0.1.0",
     description="A dummy package to try out distribution of a Python package. Built by Harsh",
     author="Harshvardhan Pandey",
-    author_email="your@email.com",
-    url="https://github.com/yourusername/mypackage",
+    author_email="harshpandey@duck.com",
+    url="https://github.com/geekidharsh/myproject",
     license="MIT",
     packages=find_packages(),
     classifiers=[
